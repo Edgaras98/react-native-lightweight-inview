@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Edgaras98/react-native-inview-port.git"
+    "url": "git+https://github.com/Edgaras98/react-native-lightweight-inview.git"
   },
   "bugs": {
-    "url": "https://github.com/Edgaras98/react-native-inview-port/issues"
+    "url": "https://github.com/Edgaras98/react-native-lightweight-inview/issues"
   },
-  "homepage": "https://github.com/Edgaras98/react-native-inview-port#readme"
+  "homepage": "https://github.com/Edgaras98/react-native-lightweight-inview#readme"
 }
