@@ -1,4 +1,4 @@
-# react-native-component-inview
+# react-native-lightweight-inview
 
 A React Native wrapper to check whether a component is in the view port
 
