@@ -1,0 +1,29 @@
+{
+  "name": "react-native-lightweight-inview",
+  "version": "1.0.2",
+  "description": "Detect if component is in device current viewport",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "intersection-observer",
+    "impressions",
+    "inview",
+    "react-native-inview-port"
+  ],
+  "author": "Edgaras Stepanovas <edgarasstepanovas14@gmail.com> (http://github.com/Edgaras98)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgaras98/react-native-inview-port.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Edgaras98/react-native-inview-port/issues"
+  },
+  "homepage": "https://github.com/Edgaras98/react-native-inview-port#readme"
+}
