@@ -1,6 +1,6 @@
 {
   "name": "react-native-lightweight-inview",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Detect if component is in device current viewport",
   "main": "index.tsx",
   "scripts": {
